@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
 
-namespace Adapter.Adapter
+namespace Adapter
 {
     public class XML : INotifyPropertyChanged
     {

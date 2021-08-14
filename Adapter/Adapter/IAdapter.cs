@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Adapter.Adapter
+namespace Adapter
 {
     public interface IAdapter
     {

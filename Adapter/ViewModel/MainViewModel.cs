@@ -1,5 +1,4 @@
-﻿using Adapter.Adapter;
-using Adapter.Command;
+﻿using Adapter.Command;
 using Adapter.Model;
 using Adapter.Helper;
 using System;
